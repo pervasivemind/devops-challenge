@@ -1,3 +1,3 @@
 export default {
-  baseApiUrl: 'https://api.realworld.io/api/',
+  baseApiUrl: process.env.API_URL ,
 };
